@@ -1,0 +1,36 @@
+.padding{
+    padding: 2%;
+}
+
+footer .padding{
+    color: white;
+}
+
+#connectToUs a, #connectToUs2 a{
+    color: transparent;
+    font-size: 4.5em;
+    padding: 3rem;
+}
+#connectToUs2 a{
+    font-size: 2.5em;
+    padding: 1rem;
+}
+
+.facebook{
+    color: #3b5998;
+}
+.instagram{
+    color: #8134af;
+}
+.twitter{
+    color: #1da1f2;
+}
+.youtube{
+    color: #C3352E;
+}
+.facebook:hover,
+.instagram:hover,
+.twitter:hover,
+.youtube:hover{
+    color: #d5d5d5;
+}
